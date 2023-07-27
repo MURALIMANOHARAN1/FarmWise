@@ -23,7 +23,7 @@ with st.sidebar:
  
     ''')
     add_vertical_space(5)
-    st.write('🏗️Crafted by [Mano](https://youtube.com/@engineerprompt)')
+    st.write('🏗️Crafted by [Mano](https://github.com/MURALIMANOHARAN1/FarmWise)')
  
 load_dotenv()
  
